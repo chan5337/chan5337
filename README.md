@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EC%9D%B4%ED%9D%AC%EC%B0%AC%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%EC%99%80%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EC%97%B0%EA%B2%B0%ED%95%B4%20%EC%8B%A4%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=60&descAlign=50" />
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EC%9D%B4%ED%9D%AC%EC%B0%AC%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%EC%99%80%20%EC%9B%B9%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EC%97%B0%EA%B2%B0%ED%95%B4%20%EC%8B%A4%EC%A0%9C%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=60&descAlign=50](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%20%EC%9D%B4%ED%9D%AC%EC%B0%AC%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38)" />
 
 <br/>
 
